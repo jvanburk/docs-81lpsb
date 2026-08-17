@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-ejfq6h.trans88.space/sitemap.xml
